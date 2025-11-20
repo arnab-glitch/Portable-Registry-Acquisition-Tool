@@ -70,5 +70,26 @@ The tool creates a fully structured, integrity-verified evidence package ready f
 Required for registry + log extraction.
 
 ### **2️⃣ Run the script**
-```powershell
-PowerShell -NoProfile -ExecutionPolicy Bypass -File .\launcher_regex_v1.ps1 ```
+
+    PowerShell -NoProfile -ExecutionPolicy Bypass -File .\launcher_regex_v1.ps1
+
+
+### **3️⃣ Documentation**
+
+See the `/docs` folder:
+
+- **features.md** — All features in detail  
+- **artifacts_collected.md** — Artifact meaning & forensic value  
+- **usage_examples.md** — Terminal usage screenshots  
+- **limitations.md** — Known limitations of live acquisition  
+
+---
+
+### **4️⃣ Screenshot**
+
+> A sample of the generated evidence structure produced by RegEx Acquisition Engine:
+
+<p align="center">
+  <img src="screenshots/sample_output.png" width="700" />
+</p>
+
