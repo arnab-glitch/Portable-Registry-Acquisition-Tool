@@ -71,7 +71,7 @@ Required for registry + log extraction.
 
 ### **2️⃣ Run the script**
 
-    PowerShell -NoProfile -ExecutionPolicy Bypass -File .\launcher_regex_v1.ps1
+    PowerShell -NoProfile -ExecutionPolicy Bypass -File .\RegEx_Acquire.ps1
 
 
 ### **3️⃣ Documentation**
