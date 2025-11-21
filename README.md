@@ -93,3 +93,12 @@ See the `/docs` folder:
   <img src="screenshots/sample_output.png" width="700" />
 </p>
 
+---
+
+### 🔗 Related Project
+
+Looking for the report generator and analysis engine?
+
+[![Related Tool](https://img.shields.io/badge/RegEx%20Analysis%20%26%20Reporting%20Engine-00eaff?style=for-the-badge)](https://github.com/arnab-glitch/Registry-Analysis-and-Reporting-Engine)
+
+The analysis engine converts the collected evidence into a full neon-themed interactive HTML forensic report.
